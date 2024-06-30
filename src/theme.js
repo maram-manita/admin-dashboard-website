@@ -1,17 +1,19 @@
 export const lightTheme = {
-  background: "#fff",
-  gray: "#F5F5F5",
-  color: "#000",
-  purple: "#E9D0F8",
-  moonColor: "#757575",
   name: "light",
+  background: "#F3f3f3",
+  cardBackground: "#fff",
+  color: "black",
+  tableHeaderColor: "#404040",
+  gridColor: "#E0E0E0",
+  lineColor: "#C0C0C0",
 };
 
 export const darkTheme = {
-  background: "#050505",
-  gray: "#1F1F1F",
-  color: "#fff",
-  purple: "#2C173F",
-  moonColor: "#a440f0",
   name: "dark",
+  background: "#050505",
+  cardBackground: "#1F1F1F",
+  color: "white",
+  tableHeaderColor: "#E0E0E0",
+  gridColor: "#E0E0E0",
+  lineColor: "#4E4E4E",
 };
